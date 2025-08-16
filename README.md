@@ -5,7 +5,7 @@ Let's find out how to get this result.
 <img width="1145" height="689" alt="image" src="https://github.com/user-attachments/assets/41aa6ca2-d568-492c-ad69-9f3d986f7130" />
 
 
-The first goal it is to make a analises on the dataset, columns, types of data and data problems.
+The first goal it is to make a analysis on the dataset to identify columns, types of data and data problems.
 
 We have 29 columns on the dataset. Obviosly that we don't need all of them the get some conclusions.
 These are the columns:
